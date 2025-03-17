@@ -1,0 +1,1 @@
+Labeling the visibility explicitly makes it easier to catch incorrect assumptions about who can access the variable.
